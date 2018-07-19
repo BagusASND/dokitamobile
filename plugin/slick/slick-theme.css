@@ -6,6 +6,10 @@
 }
 
 /* Icons */
+@font-face {
+    font-family: fontAwesome;
+    src: url("../../assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.ttf") format("truetype");
+}
 @font-face
 {
     font-family: 'slick';
@@ -66,12 +70,12 @@
 .slick-prev:before,
 .slick-next:before
 {
-    font-family: 'slick';
+    font-family: 'fontAwesome';
     font-size: 20px;
     line-height: 1;
 
     opacity: .75;
-    color: white;
+    color: #000000;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -79,7 +83,8 @@
 
 .slick-prev
 {
-    left: -25px;
+    left: 0;
+    z-index: 1;
 }
 [dir='rtl'] .slick-prev
 {
@@ -88,16 +93,16 @@
 }
 .slick-prev:before
 {
-    content: '←';
+    content: '\f137';
 }
 [dir='rtl'] .slick-prev:before
 {
-    content: '→';
+    content: '\f138';
 }
 
 .slick-next
 {
-    right: -25px;
+    right: 0;
 }
 [dir='rtl'] .slick-next
 {
@@ -106,11 +111,11 @@
 }
 .slick-next:before
 {
-    content: '→';
+    content: '\f138';
 }
 [dir='rtl'] .slick-next:before
 {
-    content: '←';
+    content: '\f137';
 }
 
 /* Dots */
@@ -177,7 +182,7 @@
 }
 .slick-dots li button:before
 {
-    font-family: 'slick';
+    font-family: 'fontAwesome';
     font-size: 6px;
     line-height: 20px;
 
@@ -188,7 +193,7 @@
     width: 20px;
     height: 20px;
 
-    content: '•';
+    content: '\f111';
     text-align: center;
 
     opacity: .25;

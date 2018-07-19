@@ -16,12 +16,12 @@
 
 <div data-role="page">
 
-    <div data-role="header">
+    <div data-role="header" style="background-color: #3e79b5!important;background-image: none;">
         <h1>My Title</h1>
     </div><!-- /header -->
 
     <div data-role="content">
-        <div class="autoplay">
+        <div class="main-slider-content">
             <div>
                 <img src="images/dummy-slide.jpg" class="img-responsive">
             </div>
@@ -70,15 +70,6 @@
 <script src="assets/js/jquery-1.8.2.min.js"></script>
 <script src="assets/js/jquery.mobile-1.2.0.min.js"></script>
 <script src="plugin/slick/slick.min.js"></script>
-<script type="text/javascript">
-    $(document).ready(function(){
-        $('.autoplay').slick({
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            autoplay: true,
-            autoplaySpeed: 2000,
-        });
-    });
-</script>
+<script src="assets/js/custom.js"></script>
 </body>
 </html>
