@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e5427a-2599-43c9-bec8-fd6c860780cf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Black.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-BlackItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-BoldItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Italic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Light.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-LightItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Medium.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-MediumItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-Thin.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Roboto/Roboto-ThinItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/London-Medical-Centre-doctor-arms-folded.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assets/css/components.css" afterPath="$PROJECT_DIR$/assets/css/components.css" />
       <change beforePath="$PROJECT_DIR$/assets/css/dokita.css" afterPath="$PROJECT_DIR$/assets/css/dokita.css" />
-      <change beforePath="$PROJECT_DIR$/assets/js/custom.js" afterPath="$PROJECT_DIR$/assets/js/custom.js" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,19 +19,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56">
-              <caret line="34" column="111" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="111" />
-              <caret line="38" column="111" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="111" />
+            <state relative-caret-position="510">
+              <caret line="72" column="66" lean-forward="false" selection-start-line="72" selection-start-column="66" selection-end-line="72" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+      <file leaf-file-name="dokita.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="544">
+              <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -55,18 +39,18 @@
       <file leaf-file-name="components.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/components.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="92" lean-forward="false" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+            <state relative-caret-position="440">
+              <caret line="457" column="24" lean-forward="true" selection-start-line="457" selection-start-column="24" selection-end-line="457" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dokita.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+            <state relative-caret-position="80">
+              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -83,6 +67,7 @@
       <find>fontfac</find>
       <find>fontaw</find>
       <find>font-fa</find>
+      <find>text</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/plugin/slick</dir>
@@ -99,10 +84,10 @@
         <option value="$PROJECT_DIR$/assets/js/jquery.mobile-1.2.0.min.js" />
         <option value="$PROJECT_DIR$/plugin/slick/slick-theme.css" />
         <option value="$PROJECT_DIR$/assets/css/jquery.mobile-1.2.0.min.css" />
+        <option value="$PROJECT_DIR$/assets/js/custom.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/components.css" />
         <option value="$PROJECT_DIR$/assets/css/dokita.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/js/custom.js" />
       </list>
     </option>
   </component>
@@ -170,6 +155,12 @@
               <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -220,12 +211,12 @@
       <updated>1531881872367</updated>
       <workItem from="1531881874164" duration="6168000" />
       <workItem from="1531984944762" duration="4045000" />
-      <workItem from="1532322008040" duration="2104000" />
+      <workItem from="1532322008040" duration="6022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12317000" />
+    <option name="totallyTimeSpent" value="16235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1065" extended-state="6" />
@@ -353,35 +344,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/components.css">
+    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="5" column="92" lean-forward="false" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="34" column="111" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="111" />
-          <caret line="38" column="111" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="111" />
+        <state relative-caret-position="510">
+          <caret line="72" column="66" lean-forward="false" selection-start-line="72" selection-start-column="66" selection-end-line="72" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/components.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="440">
+          <caret line="457" column="24" lean-forward="true" selection-start-line="457" selection-start-column="24" selection-end-line="457" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
           <folding />
         </state>
       </provider>

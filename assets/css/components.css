@@ -6,6 +6,12 @@
     font-family: Roboto Light; src: url("../fonts/Roboto/Roboto-Light.ttf") format("truetype");
 }
 
+body{
+    background-color: #EFEEF3;
+    font-family: Roboto;
+    text-shadow: none;
+}
+
 
 /*Padding*/
 .p-0 {
@@ -449,6 +455,7 @@
 
 .content{
     margin-top: 50px;
+    margin-bottom: 50px;
     padding: 0;
 }
 
@@ -458,4 +465,7 @@
 }
 .text-right{
     text-align: right;
+}
+.text-center{
+    text-align: center;
 }

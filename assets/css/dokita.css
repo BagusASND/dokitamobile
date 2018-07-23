@@ -4,6 +4,18 @@
     border: none;
     box-shadow: 0 0 10px #6f6f6f;
     height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.logo-img{
+    width: 100px;
+    margin-top: 13px;
+}
+.btn-header-bar{
+    font-size: 20px;
+    position: absolute;
+    top: 15px;
+    right: 40px;
 }
 
 .main-slider-content .slick-arrow{
@@ -16,10 +28,21 @@
     position: absolute;
     left: 0;
     bottom: 0;
-    padding: 15px;
+    padding: 10px;
     background-color: rgba(0,0,0,.2);
     color: #ffffff;
     font-size: 12px;
     line-height: 17px;
-    font-family: "Roboto Light";
+    text-shadow: none;
+}
+
+.nav-footer-menu{
+    font-weight: 100;
+    font-size: 10px;
+    background-color: #ffffff;
+    border: none;
+    padding: 14px 0;
+    color: #929292;
+    text-shadow: none;
+    background-image: none;
 }
