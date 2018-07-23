@@ -1,0 +1,25 @@
+.main-header{
+    background-color: #6FB73A!important;
+    background-image: none;
+    border: none;
+    box-shadow: 0 0 10px #6f6f6f;
+    height: 50px;
+}
+
+.main-slider-content .slick-arrow{
+    display: none!important;
+}
+.main-slider-content .item{
+    position: relative;
+}
+.main-slider-content .item .caption{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 15px;
+    background-color: rgba(0,0,0,.2);
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 17px;
+    font-family: "Roboto Light";
+}
