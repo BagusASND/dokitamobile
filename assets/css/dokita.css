@@ -36,13 +36,58 @@
     text-shadow: none;
 }
 
+
+.menu-card{
+    padding: 7px 5px;
+}
+.menu-card .ui-block{
+    padding: 3px;
+}
+.menu-card .ui-block .card{
+    padding: 10px;
+    font-size: 9px;
+    text-align: center;
+}
+.menu-card .ui-block .card img{
+    width: 45px;
+}
+
+.sticky-call-btn{
+    position: fixed;
+    bottom: 66px;
+    right: 13px;
+    width: 40px;
+    padding: 11px 0;
+    background-color: #A43A7C;
+    text-align: center;
+    border-radius: 50%;
+    color: #ffffff;
+    box-shadow: 0 0 4px #5d5d5d;
+}
+.sticky-call-btn i{
+    transform: rotate(90deg);
+}
+
+.menu-card .color-menu-a{color: #8D3BA7;}
+.menu-card .color-menu-b{color: #5CB9CF;}
+.menu-card .color-menu-c{color: #4555AC;}
+.menu-card .color-menu-d{color: #326DD8;}
+.menu-card .color-menu-e{color: #EE9B44;}
+.menu-card .color-menu-f{color: #A5CA3F;}
+.menu-card .color-menu-g{color: #5EBB61;}
+.menu-card .color-menu-h{color: #3A7C89;}
+
 .nav-footer-menu{
     font-weight: 100;
     font-size: 10px;
     background-color: #ffffff;
     border: none;
-    padding: 14px 0;
+    padding: 10px 0;
     color: #929292;
     text-shadow: none;
     background-image: none;
+}
+.nav-footer-menu div i{
+    font-size: 16px;
+    margin-bottom: 5px;
 }

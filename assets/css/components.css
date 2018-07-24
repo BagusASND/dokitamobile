@@ -459,6 +459,14 @@ body{
     padding: 0;
 }
 
+.card{
+    background-color: #ffffff;
+    width: auto;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 0 0 4px #dedede;
+}
+
 
 .img-responsive{
     max-width: 100%;
