@@ -16,6 +16,7 @@
     position: absolute;
     top: 15px;
     right: 40px;
+    text-shadow: none;
 }
 
 .main-slider-content .slick-arrow{
@@ -50,22 +51,6 @@
 }
 .menu-card .ui-block .card img{
     width: 45px;
-}
-
-.sticky-call-btn{
-    position: fixed;
-    bottom: 66px;
-    right: 13px;
-    width: 40px;
-    padding: 11px 0;
-    background-color: #A43A7C;
-    text-align: center;
-    border-radius: 50%;
-    color: #ffffff;
-    box-shadow: 0 0 4px #5d5d5d;
-}
-.sticky-call-btn i{
-    transform: rotate(90deg);
 }
 
 .menu-card .color-menu-a{color: #8D3BA7;}

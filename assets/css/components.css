@@ -1,15 +1,11 @@
-/*Font*/
-@font-face {
-    font-family: Roboto; src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
-}
-@font-face {
-    font-family: Roboto Light; src: url("../fonts/Roboto/Roboto-Light.ttf") format("truetype");
-}
-
 body{
     background-color: #EFEEF3;
-    font-family: Roboto;
     text-shadow: none;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
 }
 
 
@@ -451,6 +447,11 @@ body{
 }
 .margin-auto{
     margin: auto;
+}
+
+.hide-temp{
+    display: none!important;
+    transition-duration: 0.8s;
 }
 
 .content{

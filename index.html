@@ -4,12 +4,16 @@
     <title>Home</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/jquery.mobile-1.2.0.min.css" />
+
     <link rel="stylesheet" href="assets/css/components.css" />
     <link rel="stylesheet" href="assets/css/dokita.css" />
+    <link rel="stylesheet" href="assets/css/draggable-widget.css" />
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.min.css" />
 
+
+    <!--Plugin-->
     <link rel="stylesheet" href="plugin/slick/slick.css" />
     <link rel="stylesheet" href="plugin/slick/slick-theme.css" />
 </head>
@@ -96,9 +100,24 @@
         </div>
     </div><!-- /content -->
 
-    <div class="sticky-call-btn">
-        <i class="fas fa-phone"></i>
+    <!--Draggable Emergency Widget-->
+    <div id="widgetWrap" class="">
+        <div class="zoom">
+        <span class="zoom-fab zoom-btn-large parent-btn" id="zoomBtn">
+            <i class="fas fa-phone" id="phoneBtn"></i>
+            <i class="fas fa-times hide-temp" id="phoneCloseBtn"></i>
+        </span>
+            <ul class="zoom-menu">
+                <li>
+                    <span class="zoom-fab zoom-btn-sm scale-transition scale-out child-btn"><i class="fas fa-ambulance"></i></span>
+                </li>
+                <li>
+                    <span class="zoom-fab zoom-btn-sm scale-transition scale-out child-btn"><i class="far fa-hospital"></i></span>
+                </li>
+            </ul>
+        </div>
     </div>
+
     <div data-role="footer" class="ui-footer-fixed nav-footer-menu">
         <div class="ui-grid-c">
             <div class="ui-block-a text-center"><i class="fas fa-home"></i><br>Home</div>
@@ -111,10 +130,22 @@
 </div><!-- /page -->
 
 
-
+<!--jQuery-->
 <script src="assets/js/jquery-1.8.2.min.js"></script>
+<script src="assets/js/jquery-1.7.2.min.js"></script>
+
+<!--jQuery Mobile-->
+<script src="assets/js/jquery-ui.min.js"></script>
 <script src="assets/js/jquery.mobile-1.2.0.min.js"></script>
+
+<!--Plugin-->
 <script src="plugin/slick/slick.min.js"></script>
+<script src="assets/js/jquery.ui.touch-punch.min.js"></script>
+
+<!--Custom Javascript-->
 <script src="assets/js/custom.js"></script>
+<script>
+    $('#zoomBtn').draggable();
+</script>
 </body>
 </html>
