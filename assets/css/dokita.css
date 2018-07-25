@@ -19,7 +19,7 @@
     text-shadow: none;
 }
 
-.main-slider-content .slick-arrow{
+.main-slider-content .slick-arrow, .multiple-items-slide button.slick-arrow{
     display: none!important;
 }
 .main-slider-content .item{
@@ -37,6 +37,35 @@
     text-shadow: none;
 }
 
+.slide-info-section{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;
+}
+.slide-info-section .card{
+    display: inline-block;
+    margin-left: 5px;
+    width: 70%;
+    border-radius: 2px;
+    overflow: hidden;
+}
+.slide-info-section .card .caption{
+    overflow: hidden;
+    padding: 6px 10px;
+    font-size: 11px;
+    font-weight: 500;
+    white-space: normal;
+}
+.slide-info-section .card .caption p{
+    color: #adadad;
+    font-weight: 100;
+    text-shadow: none;
+    font-size: 10px;
+    margin-top: 5px;
+}
+
 
 .menu-card{
     padding: 7px 5px;
@@ -46,7 +75,7 @@
 }
 .menu-card .ui-block .card{
     padding: 10px;
-    font-size: 9px;
+    font-size: 8px;
     text-align: center;
 }
 .menu-card .ui-block .card img{
@@ -54,13 +83,13 @@
 }
 
 .menu-card .color-menu-a{color: #8D3BA7;}
-.menu-card .color-menu-b{color: #5CB9CF;}
-.menu-card .color-menu-c{color: #4555AC;}
-.menu-card .color-menu-d{color: #326DD8;}
-.menu-card .color-menu-e{color: #EE9B44;}
-.menu-card .color-menu-f{color: #A5CA3F;}
-.menu-card .color-menu-g{color: #5EBB61;}
-.menu-card .color-menu-h{color: #3A7C89;}
+.menu-card .color-menu-b{color: #4555AC;}
+.menu-card .color-menu-c{color: #326DD8;}
+.menu-card .color-menu-d{color: #EE9B44;}
+.menu-card .color-menu-e{color: #A5CA3F;}
+.menu-card .color-menu-f{color: #5EBB61;}
+.menu-card .color-menu-g{color: #3A7C89;}
+.menu-card .color-menu-h{color: #5CB9CF;}
 
 .nav-footer-menu{
     font-weight: 100;
@@ -75,4 +104,13 @@
 .nav-footer-menu div i{
     font-size: 16px;
     margin-bottom: 5px;
+}
+.nav-footer-menu div.active{
+    color: #49852f;
+}
+
+@media (max-width: 320px) {
+    .multiple-items-slide .slick-list .item{
+        width: 230px!important;
+    }
 }

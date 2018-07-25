@@ -8,6 +8,16 @@ a{
     color: inherit;
 }
 
+a.default-link{
+    font-weight: normal!important;
+    font-size: 10px;
+    text-shadow: none!important;
+}
+
+h1,h2,h3,h4,h5,h6{
+    text-shadow: none;
+}
+
 
 /*Padding*/
 .p-0 {
@@ -477,4 +487,7 @@ a{
 }
 .text-center{
     text-align: center;
+}
+.text-muted{
+    color: #adadad;
 }
