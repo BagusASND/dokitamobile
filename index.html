@@ -23,8 +23,22 @@
 
     <div data-role="header" class="ui-header-fixed main-header">
         <div class="ui-grid-a">
-            <div class="ui-block-a"><img src="assets/img/SHAsri-Logo-OK-01---Copy.png" class="img-responsive logo-img"></div>
-            <div class="ui-block-b"><span class="btn-header-bar"><i class="fas fa-ellipsis-v"></i></span></div>
+            <div class="ui-block-a container-logo">
+                <img src="assets/img/SHAsri-Logo-OK-01---Copy.png" class="img-responsive logo-img">
+            </div>
+            <div class="ui-block-b">
+                <span class="btn-header-bar" id="dropdownBtn">
+                    <i class="fas fa-ellipsis-v"></i>
+                </span>
+                <ul class="dropdown-content info">
+                    <li>
+                        Hubungi Kami
+                    </li>
+                    <li>
+                        Tentang Kami
+                    </li>
+                </ul>
+            </div>
         </div>
     </div><!-- /header -->
 
@@ -139,7 +153,6 @@
         <div class="zoom">
             <span class="zoom-fab zoom-btn-large parent-btn" id="zoomBtn">
                 <i class="fas fa-phone" id="phoneBtn"></i>
-                <i class="fas fa-times hide-temp" id="phoneCloseBtn"></i>
             </span>
             <ul class="zoom-menu">
                 <li>
