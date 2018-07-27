@@ -117,7 +117,7 @@
 .dropdown > .outer-list {
     position: fixed;
     z-index: 1;
-    top: -17px;
+    top: -16px;
     right: 0;
     transform: scale(0);
     opacity: 0;
@@ -152,15 +152,19 @@
 }
 
 .dropdown > .outer-list > ul li {
-    padding: .25em 3em;
-    margin: .25em;
-    width: 100%;
+    position: relative;
+    padding: 15px 25px 7px 30px;
     cursor: pointer;
     transition: background 0.35s ease;
     font-weight: 100;
     text-shadow: none;
     color: #929292;
     font-size: 12px;
+}
+.dropdown > .outer-list > ul li i{
+    position: absolute;
+    top: 16px;
+    left: 10px;
 }
 
 .dropdown > .outer-list > ul li:hover { background: rgba(0, 0, 0, 0.07); }
