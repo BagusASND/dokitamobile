@@ -459,6 +459,21 @@ h1,h2,h3,h4,h5,h6{
     margin: auto;
 }
 
+.header-title{
+    text-shadow: none;
+    font-weight: 400;
+    font-size: 18px!important;
+    text-align: left!important;
+    margin: 14px 15px!important;
+}
+.header-title span{
+    margin-left: 30px;
+}
+.header-icon{
+    font-size: 22px;
+    position: absolute;
+}
+
 .hide-temp{
     display: none!important;
     transition-duration: 0.8s;
@@ -476,6 +491,18 @@ h1,h2,h3,h4,h5,h6{
     height: auto;
     border-radius: 2px;
     box-shadow: 0 0 4px #dedede;
+}
+.card.default{
+    border-radius: 3px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+.card.default .caption{
+    padding: 5px 10px 12px 10px;
+}
+.card.default .caption p{
+    margin: 0;
+    font-size: 12px;
 }
 
 

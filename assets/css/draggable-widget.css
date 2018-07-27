@@ -70,6 +70,10 @@
     right: 45px;
     width: 100px;
 }
+.zoom-menu li span img{
+    width: 25px;
+    margin-top: 7px;
+}
 
 .zoom-card {
     position: absolute;

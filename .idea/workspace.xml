@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e5427a-2599-43c9-bec8-fd6c860780cf" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/medical-history.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/my-account.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/promo.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/css/components.css" afterPath="$PROJECT_DIR$/assets/css/components.css" />
       <change beforePath="$PROJECT_DIR$/assets/css/dokita.css" afterPath="$PROJECT_DIR$/assets/css/dokita.css" />
+      <change beforePath="$PROJECT_DIR$/assets/css/draggable-widget.css" afterPath="$PROJECT_DIR$/assets/css/draggable-widget.css" />
+      <change beforePath="$PROJECT_DIR$/assets/img/menu1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/menu2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/menu3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/menu4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/menu5.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/menu6.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/menu7.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/menu8.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/custom.js" afterPath="$PROJECT_DIR$/assets/js/custom.js" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="promo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/promo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="35" column="67" lean-forward="false" selection-start-line="35" selection-start-column="67" selection-end-line="35" selection-end-column="67" />
+            <state relative-caret-position="338">
+              <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dokita.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="583">
+              <caret line="123" column="29" lean-forward="false" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -27,18 +52,8 @@
       <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="78" column="5" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dokita.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="165" column="14" lean-forward="false" selection-start-line="165" selection-start-column="14" selection-end-line="165" selection-end-column="14" />
+            <state relative-caret-position="64">
+              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -47,8 +62,8 @@
       <file leaf-file-name="draggable-widget.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/draggable-widget.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1728">
-              <caret line="108" column="51" lean-forward="false" selection-start-line="108" selection-start-column="51" selection-end-line="108" selection-end-column="51" />
+            <state relative-caret-position="537">
+              <caret line="74" column="20" lean-forward="false" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -57,8 +72,8 @@
       <file leaf-file-name="components.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/components.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7872">
-              <caret line="492" column="1" lean-forward="false" selection-start-line="492" selection-start-column="1" selection-end-line="492" selection-end-column="1" />
+            <state relative-caret-position="584">
+              <caret line="504" column="20" lean-forward="false" selection-start-line="504" selection-start-column="20" selection-end-line="504" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -104,10 +119,13 @@
         <option value="$PROJECT_DIR$/assets/js/jquery-1.7.2.min.js" />
         <option value="$PROJECT_DIR$/assets/js/jquery-ui.min.js" />
         <option value="$PROJECT_DIR$/assets/css/draggable-widget.css" />
-        <option value="$PROJECT_DIR$/assets/css/components.css" />
-        <option value="$PROJECT_DIR$/assets/js/custom.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/dokita.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/custom.js" />
+        <option value="$PROJECT_DIR$/medical-history.html" />
+        <option value="$PROJECT_DIR$/my-account.html" />
+        <option value="$PROJECT_DIR$/assets/css/components.css" />
+        <option value="$PROJECT_DIR$/promo.html" />
       </list>
     </option>
   </component>
@@ -246,12 +264,12 @@
       <workItem from="1532481408238" duration="1173000" />
       <workItem from="1532493528138" duration="13804000" />
       <workItem from="1532571809259" duration="10548000" />
-      <workItem from="1532655046487" duration="4365000" />
+      <workItem from="1532655046487" duration="8716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49161000" />
+    <option name="totallyTimeSpent" value="53512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2048" height="1065" extended-state="6" />
@@ -574,30 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/components.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7872">
-          <caret line="492" column="1" lean-forward="false" selection-start-line="492" selection-start-column="1" selection-end-line="492" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/draggable-widget.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="108" column="51" lean-forward="false" selection-start-line="108" selection-start-column="51" selection-end-line="108" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="78" column="5" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_animated.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -640,16 +634,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="35" column="67" lean-forward="false" selection-start-line="35" selection-start-column="67" selection-end-line="35" selection-end-column="67" />
+        <state relative-caret-position="631">
+          <caret line="189" column="72" lean-forward="false" selection-start-line="189" selection-start-column="72" selection-end-line="189" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medical-history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="165" column="14" lean-forward="false" selection-start-line="165" selection-start-column="14" selection-end-line="165" selection-end-column="14" />
+        <state relative-caret-position="583">
+          <caret line="123" column="29" lean-forward="false" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/draggable-widget.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="74" column="20" lean-forward="false" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/components.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="504" column="20" lean-forward="false" selection-start-line="504" selection-start-column="20" selection-end-line="504" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/promo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
           <folding />
         </state>
       </provider>

@@ -74,9 +74,25 @@
     font-size: 8px;
     text-align: center;
 }
-.menu-card .ui-block .card img{
+.menu-card .ui-block .card .menu-ic{
     width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin: auto;
 }
+.menu-card .ui-block .card .menu-ic img{
+    max-width: 27px;
+    margin-top: 8px;
+}
+
+.menu-card .color-menu-a .menu-ic{background-color: #8D3BA7; }
+.menu-card .color-menu-b .menu-ic{background-color: #4555AC; }
+.menu-card .color-menu-c .menu-ic{background-color: #326DD8; }
+.menu-card .color-menu-d .menu-ic{background-color: #EE9B44; }
+.menu-card .color-menu-e .menu-ic{background-color: #A5CA3F; }
+.menu-card .color-menu-f .menu-ic{background-color: #5EBB61; }
+.menu-card .color-menu-g .menu-ic{background-color: #3A7C89; }
+.menu-card .color-menu-h .menu-ic{background-color: #5CB9CF; }
 
 .menu-card .color-menu-a{color: #8D3BA7;}
 .menu-card .color-menu-b{color: #4555AC;}
@@ -93,16 +109,19 @@
     background-color: #ffffff;
     border: none;
     padding: 10px 0;
-    color: #929292;
     text-shadow: none;
     background-image: none;
+}
+.nav-footer-menu a{
+    color: #929292!important;
+    font-weight: 100!important;
 }
 .nav-footer-menu div i{
     font-size: 16px;
     margin-bottom: 5px;
 }
-.nav-footer-menu div.active{
-    color: #49852f;
+.nav-footer-menu div.active a{
+    color: #49852f!important;
 }
 
 
