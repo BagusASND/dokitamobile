@@ -27,6 +27,9 @@
 
 .zoom-fab.parent-btn{
     background: linear-gradient(176deg, #e264ad, #5d094a);
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 20px;
 }
 .zoom-fab.child-btn{
     background-color: #6FB73A;
@@ -35,7 +38,6 @@
 .zoom-btn-large {
     width: 60px;
     height: 60px;
-    line-height: 60px;
 }
 .zoom-btn-large i{
     transform: rotate(90deg);
