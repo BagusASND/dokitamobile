@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Promo</title>
+    <title>Daftar Berobat</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/jquery.mobile-1.2.0.min.css" />
 
@@ -16,6 +16,12 @@
     <!--Plugin-->
     <link rel="stylesheet" href="plugin/slick/slick.css" />
     <link rel="stylesheet" href="plugin/slick/slick-theme.css" />
+    <style>
+        .toggler { width: 500px; height: 200px; }
+        #button { padding: .5em 1em; text-decoration: none; }
+        #effect { width: 240px; height: 170px; padding: 0.4em; position: relative; }
+        #effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+    </style>
 </head>
 <body>
 
@@ -32,11 +38,41 @@
     </div><!-- /header -->
 
     <div data-role="content" class="content">
-        <div class="panel">
-            <div class="panel-body">f</div>
-            <div class="panel-footer">f</div>
+        <div class="list-checkup">
+            <div class="panel">
+                <div class="panel-body">
+                    <p class="text-center">
+                        <img src="assets/img/SHAsri-Logo-OK-01---Copy.png" class="img-responsive company-logo">
+                    </p>
+                    <p class="text-center text-strong">Syarat dan Ketentuan Daftar Online</p>
+                    <ol class="pl-15">
+                        <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</li>
+                        <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore</li>
+                    </ol>
+                </div>
+                <div class="panel-footer">
+                    <p class="no-margin text-center">
+                        <span id="showMore" class="text-primary">Baca Selengkapnya <i class="fas fa-caret-down"></i></span>
+                    </p>
+                </div>
+            </div>
         </div>
     </div><!-- /content -->
+
+    <div class="content-more hide-temp">
+        cdh
+    </div>
+
+    <div class="toggler">
+        <div id="effect" class="ui-widget-content ui-corner-all">
+            <h3 class="ui-widget-header ui-corner-all">Show</h3>
+            <p>
+                Etiam libero neque, luctus a, eleifend nec, semper at, lorem. Sed pede. Nulla lorem metus, adipiscing ut, luctus sed, hendrerit vitae, mi.
+            </p>
+        </div>
+    </div>
+
+    <button id="button" class="ui-state-default ui-corner-all">Run Effect</button>
 
 
 </div><!-- /page -->
@@ -53,6 +89,7 @@
 <!--Plugin-->
 <script src="plugin/slick/slick.min.js"></script>
 <script src="assets/js/jquery.ui.touch-punch.min.js"></script>
+
 
 <!--Custom Javascript-->
 <script src="assets/js/custom.js"></script>

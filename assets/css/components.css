@@ -1,6 +1,7 @@
 body{
     background-color: #EFEEF3;
     text-shadow: none;
+    font-size: 12px;
 }
 a{
     text-decoration: none!important;
@@ -538,4 +539,10 @@ h1,h2,h3,h4,h5,h6{
 }
 .text-lg{
     font-size: 20px;
+}
+.text-strong{
+    font-weight: bold;
+}
+.text-primary{
+    color: #6FB73A;
 }

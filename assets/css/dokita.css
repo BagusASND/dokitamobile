@@ -116,12 +116,21 @@
     color: #929292!important;
     font-weight: 100!important;
 }
-.nav-footer-menu div i{
-    font-size: 16px;
-    margin-bottom: 5px;
+.nav-footer-menu a img{
+    width: 20px;
+    margin: auto;
+}
+.nav-footer-menu a img.active-img{
+    display: none;
 }
 .nav-footer-menu div.active a{
     color: #49852f!important;
+}
+.nav-footer-menu div.active a img{
+    display: none;
+}
+.nav-footer-menu div.active a img.active-img{
+    display: unset;
 }
 
 
@@ -233,6 +242,19 @@
     transform: scale(1);
     opacity: 1;
     visibility: visible;
+}
+
+.list-checkup .company-logo{
+    max-height: 25px;
+}
+
+.content-more{
+    background-color: #ffffff;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    z-index: 1003;
+    height: 100%;
 }
 
 
