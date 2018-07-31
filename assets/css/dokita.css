@@ -94,14 +94,14 @@
 .menu-card .color-menu-g .menu-ic{background-color: #3A7C89; }
 .menu-card .color-menu-h .menu-ic{background-color: #5CB9CF; }
 
-.menu-card .color-menu-a{color: #8D3BA7;}
-.menu-card .color-menu-b{color: #4555AC;}
-.menu-card .color-menu-c{color: #326DD8;}
-.menu-card .color-menu-d{color: #EE9B44;}
-.menu-card .color-menu-e{color: #A5CA3F;}
-.menu-card .color-menu-f{color: #5EBB61;}
-.menu-card .color-menu-g{color: #3A7C89;}
-.menu-card .color-menu-h{color: #5CB9CF;}
+.menu-card .color-menu-a a{color: #8D3BA7!important; font-weight: normal!important;}
+.menu-card .color-menu-b a{color: #4555AC!important; font-weight: normal!important;}
+.menu-card .color-menu-c a{color: #326DD8!important; font-weight: normal!important;}
+.menu-card .color-menu-d a{color: #EE9B44!important; font-weight: normal!important;}
+.menu-card .color-menu-e a{color: #A5CA3F!important; font-weight: normal!important;}
+.menu-card .color-menu-f a{color: #5EBB61!important; font-weight: normal!important;}
+.menu-card .color-menu-g a{color: #3A7C89!important; font-weight: normal!important;}
+.menu-card .color-menu-h a{color: #5CB9CF!important; font-weight: normal!important;}
 
 .nav-footer-menu{
     font-weight: 100;
