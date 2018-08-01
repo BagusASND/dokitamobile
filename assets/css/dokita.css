@@ -1,5 +1,5 @@
 .main-header{
-    background-color: #6FB73A!important;
+    background-color: #56bd0a!important;/*#6FB73A!important*/
     background-image: none;
     border: none;
     box-shadow: 0 0 10px #6f6f6f;
@@ -248,13 +248,20 @@
     max-height: 25px;
 }
 
-.content-more{
-    background-color: #ffffff;
-    position: absolute;
-    width: 100%;
-    top: 0;
-    z-index: 1003;
+
+
+#contentMore {
     height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    text-align:center;
 }
 
 
