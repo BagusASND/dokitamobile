@@ -6,13 +6,6 @@ $(document).ready(function(){
     });
 
 
-    $('#showMore').click(function () {
-        document.getElementById("contentMore").style.width = "100%";
-    })
-    $('#closeShowMore').click(function () {
-        document.getElementById("contentMore").style.width = "0";
-    })
-
 
     $('#zoomBtn').click(function() {
         $('.zoom-btn-sm').toggleClass('scale-out');

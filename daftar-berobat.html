@@ -46,20 +46,26 @@
                 </div>
                 <div class="panel-footer">
                     <p class="no-margin text-center">
-                        <span id="showMore" class="text-primary">Baca Selengkapnya <i class="fas fa-caret-down"></i></span>
+                        <a href="#popup" class="text-primary text-normal" data-rel="dialog" data-transition="slideup">Baca Selengkapnya <i class="fas fa-caret-down"></i></a>
                     </p>
                 </div>
             </div>
         </div>
     </div><!-- /content -->
 
-    <div id="contentMore" class="ui-widget-content ui-corner-all">
-        <div data-role="header" class="ui-header-fixed main-header">
-            <h3 class="header-title">
-                <i id="closeShowMore" class="fas fa-times"></i>
-            </h3>
-        </div><!-- /header -->
-        <div class="p-15 mt-50">
+
+</div><!-- /page -->
+
+
+<div data-role="dialog" id="popup" class="modal">
+    <div data-role="header" class="modal-header">
+        <div class="pop-up-header">
+            <span class="close-btn"><a href="#" data-rel="back"><i class="fas fa-times"></i></a></span>
+        </div>
+    </div><!-- /header -->
+
+    <div role="main" class="modal-body">
+        <div class="pop-up-content">
             <ol>
                 <li>Etiam libero neque, luctus a, eleifend nec, semper at, lorem. Sed pede. Nulla lorem metus, adipiscing ut, luctus sed, hendrerit vitae, mi.</li>
                 <li>Etiam libero neque, luctus a, eleifend nec, semper at, lorem. Sed pede. Nulla lorem metus, adipiscing ut, luctus sed, hendrerit vitae, mi.</li>
@@ -92,10 +98,8 @@
                 <li>Etiam libero neque, luctus a, eleifend nec, semper at, lorem. Sed pede. Nulla lorem metus, adipiscing ut, luctus sed, hendrerit vitae, mi.</li>
             </ol>
         </div>
-    </div>
-
-
-</div><!-- /page -->
+    </div><!-- /content -->
+</div>
 
 
 <!--jQuery-->
