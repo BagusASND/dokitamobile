@@ -620,7 +620,8 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .modal-default{
-    background-color: rgba(0,0,0,.5)!important;
+    background-color: transparent!important;
+    margin-top: 55%;
 }
 .modal-default .modal-header .modal-title{
     margin: 0;
@@ -636,8 +637,8 @@ h1,h2,h3,h4,h5,h6{
     color: #535353;
     text-shadow: none;
     position: absolute;
-    right: 8px;
-    top: 6px;
+    right: 13px;
+    top: 12px;
     font-size: 14px;
 }
 .modal-default .modal-header, .modal-default .modal-body{
@@ -658,7 +659,7 @@ h1,h2,h3,h4,h5,h6{
 
 
 /* Custom Button */
-.btn{
+.link{
     font-weight: normal;
     text-shadow: none;
     background-color: transparent;
