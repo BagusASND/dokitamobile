@@ -184,7 +184,7 @@
     <!--Draggable Emergency Widget-->
     <div id="widgetWrap" class="">
         <div class="zoom">
-            <span class="zoom-fab zoom-btn-large parent-btn" id="zoomBtn">
+            <span class="zoomBtn zoom-fab zoom-btn-large parent-btn">
                 <i class="fas fa-phone" id="phoneBtn"></i>
             </span>
             <ul class="zoom-menu">
@@ -192,7 +192,12 @@
                     <span class="zoom-fab zoom-btn-sm scale-transition scale-out child-btn"><label class="label">Panggilan Ambulan</label><img src="assets/img/call%20ambulance.png" class="img-responsive"></span>
                 </li>
                 <li>
-                    <span class="zoom-fab zoom-btn-sm scale-transition scale-out child-btn"><label class="label">Panggilan Darurat</label><img src="assets/img/call.png" class="img-responsive"></span>
+                    <span class="zoom-fab zoom-btn-sm scale-transition scale-out child-btn">
+                        <label class="label">Panggilan Darurat</label>
+                        <a href="#tnc-popup" class="zoomBtn" data-rel="dialog" data-transition="pop">
+                            <img src="assets/img/call.png" class="img-responsive">
+                        </a>
+                    </span>
                 </li>
             </ul>
         </div>
@@ -232,6 +237,24 @@
     </div><!-- /footer -->
 
 </div><!-- /page -->
+
+
+<!--Popup Modal-->
+<div data-role="dialog" id="tnc-popup" class="modal-default">
+    <div data-role="header" class="modal-header">
+        <h4 class="modal-title">Emergency Call</h4>
+        <span class="close-btn"><a href="#" data-rel="back"><i class="fas fa-times"></i></a></span>
+    </div><!-- /header -->
+
+    <div role="main" class="modal-body">
+        Apakah Anda ingin melakukan emergency call?
+    </div><!-- /content -->
+
+    <div data-role="footer" class="modal-footer">
+        <a href="#" data-rel="back" class="dc">BATAL</a>
+        <a class="btn btn-link-primary">CALL</a>
+    </div>
+</div>
 
 
 <!--jQuery-->

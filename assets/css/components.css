@@ -610,11 +610,69 @@ h1,h2,h3,h4,h5,h6{
     position: fixed;
     box-shadow: 0 0 10px #6f6f6f;
 }
-.modal .modal-header a.ui-btn{
+.modal .modal-header a.ui-btn, .modal-default .modal-header a.ui-btn{
     display: none;
 }
 .modal .modal-body{
     background-color: #ffffff;
     padding-top: 50px;
     border-radius: 0;
+}
+
+.modal-default{
+    background-color: rgba(0,0,0,.5)!important;
+}
+.modal-default .modal-header .modal-title{
+    margin: 0;
+    text-align: left;
+}
+.modal-default .modal-header{
+    color: #535353;
+    position: relative;
+    border-radius: 3px 3px 0 0;
+    padding: 10px;
+}
+.modal-default .modal-header .close-btn{
+    color: #535353;
+    text-shadow: none;
+    position: absolute;
+    right: 8px;
+    top: 6px;
+    font-size: 14px;
+}
+.modal-default .modal-header, .modal-default .modal-body{
+    background-color: #ffffff;
+    background-image: none;
+    padding: 10px 10px 25px 10px;
+}
+.modal-default .modal-footer{
+    background-color: #F4F4F4;
+    background-image: none;
+    border-radius: 0 0 3px 3px;
+    border: none;
+    padding: 10px;
+    text-align: right;
+    text-shadow: none;
+    font-weight: normal;
+}
+
+
+/* Custom Button */
+.btn{
+    font-weight: normal;
+    text-shadow: none;
+    background-color: transparent;
+    background-image: none;
+    border: none;
+    box-shadow: none!important;
+    border-radius: 0;
+}
+.btn .ui-btn-inner{
+    border: none;
+}
+.btn-link-primary{
+    color: #56bd0a!important;
+}
+.btn-link-default{
+    color: #B4B4B4!important;
 }
