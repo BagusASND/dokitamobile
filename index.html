@@ -194,9 +194,26 @@
                 <li>
                     <span class="zoom-fab zoom-btn-sm scale-transition scale-out child-btn">
                         <label class="label">Panggilan Darurat</label>
-                        <a href="#emergency-popup" class="zoomBtn" data-rel="dialog" data-transition="pop">
+                        <a href="#emergencyCall" data-rel="popup" data-position-to="window" data-transition="fade" class="zoomBtn">
                             <img src="assets/img/call.png" class="img-responsive">
                         </a>
+                        <div data-role="popup" id="emergencyCall" data-overlay-theme="b" data-theme="b" data-corners="false">
+                            <div class="modal-default">
+                                <div data-role="header" class="modal-header">
+                                    <h4 class="modal-title">Emergency Call</h4>
+                                    <span class="close-btn"><a href="#" data-rel="back"><i class="fas fa-times"></i></a></span>
+                                </div><!-- /header -->
+
+                                <div role="main" class="modal-body">
+                                    Apakah Anda ingin melakukan emergency call?
+                                </div><!-- /content -->
+
+                                <div data-role="footer" class="modal-footer">
+                                    <a href="#" data-rel="back" class="link btn-link-default">BATAL</a>
+                                    <a href="#" class="link btn-link-primary">BATAL</a>
+                                </div>
+                            </div>
+                        </div>
                     </span>
                 </li>
             </ul>
@@ -240,21 +257,7 @@
 
 
 <!--Popup Modal-->
-<div data-role="dialog" id="emergency-popup" class="modal-default">
-    <div data-role="header" class="modal-header">
-        <h4 class="modal-title">Emergency Call</h4>
-        <span class="close-btn"><a href="#" data-rel="back"><i class="fas fa-times"></i></a></span>
-    </div><!-- /header -->
 
-    <div role="main" class="modal-body">
-        Apakah Anda ingin melakukan emergency call?
-    </div><!-- /content -->
-
-    <div data-role="footer" class="modal-footer">
-        <a href="#" data-rel="back" class="link btn-link-default">BATAL</a>
-        <a class="link btn-link-primary">CALL</a>
-    </div>
-</div>
 
 
 <!--jQuery-->

@@ -1,24 +1,3 @@
-document.addEventListener("backbutton", function() {
-    if ( $('.ui-page-active').attr('id') == 'home') {
-        navigator.notification.confirm(
-            'Press back again to exit'
-            , function(button) {
-                if (button == 2 || button == 0) {
-                    navigator.app.exitApp();
-                }
-            }
-            , 'Exit App?'
-            , ['No way', 'Exit']
-        );
-        return false;
-
-    } else {
-        history.back();
-    }
-}, false);
-
-
-
 $(document).ready(function(){
 
     $('.main-slider-content').slick({
