@@ -248,6 +248,24 @@
     max-height: 25px;
 }
 
+.call-dialog{
+    padding: 10px;
+    position: absolute;
+    bottom: 20px;
+    right: 0;
+    left: 0;
+    font-family: Helvetica,Arial,sans-serif;
+}
+.radio-call{
+    position: relative;
+    padding-left: 25px;
+}
+.radio-call input{
+    position: absolute;
+    left: 0px;
+    top: -2px;
+}
+
 
 @media (max-width: 320px) {
     .multiple-items-slide .slick-list .item{
