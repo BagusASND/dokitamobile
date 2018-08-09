@@ -3,9 +3,111 @@
   <component name="ChangeListManager">
     <list default="true" id="d6e5427a-2599-43c9-bec8-fd6c860780cf" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/components.css" afterPath="$PROJECT_DIR$/assets/css/components.css" />
-      <change beforePath="$PROJECT_DIR$/assets/css/dokita.css" afterPath="$PROJECT_DIR$/assets/css/dokita.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/assets/css/components.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css/dokita.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css/draggable-widget.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/ajax-loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/icons-36-white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/css/jquery.mobile-1.2.0.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_animated.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_bordered-pulled.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_fixed-width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_larger.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_rotated-flipped.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_screen-reader.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_stacked.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-brands.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-regular.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-solid.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fontawesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_animated.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_bordered-pulled.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_fixed-width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_larger.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_rotated-flipped.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_screen-reader.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_stacked.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-brands.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-regular.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-solid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fontawesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/SHAsri-Logo-OK-01---Copy.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/antar jemput.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/call ambulance.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/call.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/channel.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/daftar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/homee 2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/homee1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profil 1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profil 2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profil rumahsakit.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/promo 1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/promo 2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/rawat _ skoma.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/rawat inap.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/riwayat 1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/riwayat 2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/skbn.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/img/video.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery-1.7.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery-1.8.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery-ui.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.mobile-1.2.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.ui.touch-punch.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Beacon-Hospital-large-1024x607.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/London-Medical-Centre-doctor-arms-folded.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/promo-kartu-kredit-bca-eka-hospital.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/ajax-loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/config.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/fonts/slick.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/fonts/slick.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/fonts/slick.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/fonts/slick.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/slick-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/slick-theme.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/slick-theme.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/slick.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/slick.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/slick.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/slick.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/plugin/slick/slick.scss" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +121,7 @@
       <file leaf-file-name="daftar-berobat.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daftar-berobat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="672">
               <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
@@ -29,51 +131,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+            <state relative-caret-position="512">
+              <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
               <folding>
                 <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dokita.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="260" column="23" lean-forward="false" selection-start-line="260" selection-start-column="23" selection-end-line="260" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="components.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/components.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="583" column="19" lean-forward="false" selection-start-line="583" selection-start-column="19" selection-end-line="583" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="draggable-widget.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/draggable-widget.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -82,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/content-more.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
-              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+              <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -154,10 +216,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1016" />
     <option name="y" value="23" />
-    <option name="width" value="2048" />
-    <option name="height" value="1065" />
+    <option name="width" value="1032" />
+    <option name="height" value="1064" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -181,64 +244,6 @@
             <path>
               <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fontawesome-5.0.13" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fontawesome-5.0.13" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web-fonts-with-css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fontawesome-5.0.13" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web-fonts-with-css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="slick" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -296,17 +301,18 @@
       <workItem from="1533275276886" duration="4386000" />
       <workItem from="1533552827287" duration="4301000" />
       <workItem from="1533636900162" duration="5288000" />
+      <workItem from="1533700858038" duration="4574000" />
+      <workItem from="1533780566718" duration="255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86155000" />
+    <option name="totallyTimeSpent" value="90984000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2048" height="1065" extended-state="6" />
-    <editor active="true" />
+    <frame x="1016" y="23" width="1032" height="1064" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16101696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23737374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -314,7 +320,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20103092" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26006192" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -593,9 +599,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="1090" lean-forward="false" selection-start-line="10" selection-start-column="1090" selection-end-line="10" selection-end-column="1090" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -603,9 +607,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="29612" lean-forward="false" selection-start-line="3" selection-start-column="29612" selection-end-line="3" selection-end-column="29612" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -613,9 +615,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="4" column="201719" lean-forward="false" selection-start-line="4" selection-start-column="201719" selection-end-line="4" selection-end-column="201719" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +688,7 @@
     <entry file="file://$PROJECT_DIR$/content-more.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
-          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -703,7 +703,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daftar-berobat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="672">
           <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
@@ -711,7 +711,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/components.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
+        <state relative-caret-position="9328">
           <caret line="583" column="19" lean-forward="false" selection-start-line="583" selection-start-column="19" selection-end-line="583" selection-end-column="19" />
           <folding />
         </state>
@@ -719,7 +719,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
+        <state relative-caret-position="4160">
           <caret line="260" column="23" lean-forward="false" selection-start-line="260" selection-start-column="23" selection-end-line="260" selection-end-column="23" />
           <folding />
         </state>
@@ -727,8 +727,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        <state relative-caret-position="512">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding>
             <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
