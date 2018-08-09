@@ -569,7 +569,7 @@ h1,h2,h3,h4,h5,h6{
     text-align: right;
 }
 .text-center{
-    text-align: center;
+    text-align: center!important;
 }
 .text-muted{
     color: #adadad;
@@ -672,6 +672,12 @@ h1,h2,h3,h4,h5,h6{
     z-index: 1000;
 }
 
+.modal-confirm{
+    background-color: #ffffff;
+    border-radius: 3px;
+    width: 90%;
+    margin: auto;
+}
 
 /* Custom Button */
 .link{

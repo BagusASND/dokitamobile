@@ -216,7 +216,7 @@
 					<li>
                     <span class="zoom-fab zoom-btn-sm scale-transition scale-out child-btn">
                         <label class="label">Panggilan Darurat</label>
-                        <a href="#emergencyCall" data-rel="popup" class="zoomBtn" data-transition="pop">
+                        <a href="#emergencyCall" class="zoomBtn" data-rel="dialog" data-transition="pop">
                             <img src="assets/img/call.png" class="img-responsive">
                         </a>
                     </span>
@@ -259,7 +259,12 @@
 	</div>
 
 
-	<div data-role="popup" id="emergencyCall" class="modal-default">
+</div><!-- /page -->
+
+
+<div data-role="page" id="emergencyCall" style="margin-top: 150px;">
+
+	<div class="modal-default">
 		<div data-role="header" class="modal-header">
 			<h4 class="modal-title">Emergency Call</h4>
 			<span class="close-btn"><a href="#" data-rel="back"><i class="fas fa-times"></i></a></span>
@@ -271,12 +276,56 @@
 
 		<div data-role="footer" class="modal-footer text-right">
 			<a href="#" data-rel="back" class="link btn-link-default">BATAL</a>
-			<a href="#call" data-rel="back" class="link btn-link-primary" id="call2">CALL</a>
+			<a href="#" data-rel="back" class="link btn-link-primary" id="call2">CALL</a>
 		</div>
 	</div>
+</div><!-- /page popup -->
 
 
-</div><!-- /page -->
+<div id="confirmCall" class="overlay-dialog">
+	<div class="modal-dialog">
+		<div class="modal-confirm">
+			<div class="modal-default">
+				<div data-role="header" class="modal-header">
+					<h4 class="modal-title text-center">Tindakan lengkap menggunakan</h4>
+				</div><!-- /header -->
+
+				<div role="main" class="modal-body">
+					<div class="ui-grid-c">
+						<div class="ui-block-a text-center text-muted">
+							<a href="#">
+								<i class="far fa-bell fa-2x mb-5 ico-d-confirm"></i>
+								<br>Dingtone
+							</a>
+						</div>
+						<div class="ui-block-b text-center text-muted">
+							<a href="#">
+								<i class="fab fa-skype fa-2x mb-5 ico-d-confirm"></i>
+								<br>Skype
+							</a>
+						</div>
+						<div class="ui-block-c text-center text-muted">
+							<a href="#">
+								<i class="fas fa-phone fa-2x mb-5 ico-d-confirm"></i>
+								<br>Telepon
+							</a>
+						</div>
+						<div class="ui-block-d text-center text-muted">
+							<a href="#">
+								<i class="fas fa-cog fa-2x mb-5 ico-d-confirm"></i>
+								<br>Urut
+							</a>
+						</div>
+					</div>
+				</div><!-- /content -->
+
+				<div data-role="footer" class="modal-footer text-center p-15">
+					<a class="link btn-link-default" id="closeConfirmCall">BATAL</a>
+				</div>
+			</div>
+		</div>
+	</div><!-- /content -->
+</div>
 
 </body>
 </html>

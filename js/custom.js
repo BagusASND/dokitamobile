@@ -27,6 +27,15 @@ $(document).ready(function(){
     });
 
 
+    $('#confirmCall').hide();
+    $('#call2').click(function () {
+       $('#confirmCall').show(500);
+    });
+    $('#closeConfirmCall').click(function () {
+        $('#confirmCall').hide(500);
+    });
+
+
 
 
     /*
