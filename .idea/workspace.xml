@@ -2,64 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e5427a-2599-43c9-bec8-fd6c860780cf" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-af.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-ag.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-bb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-bk.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-hc.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-k.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-mg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-ok.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-p.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-rh.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-ws.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/album-xx.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/apple.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/bg-pattern.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/bike.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/blackberry_10.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/bmw-thumb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/bmw.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/buenosaires.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/capetown.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/de.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/devices.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/fi.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/firefox-logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/firefox_os.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/galaxy_express.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/gb.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/gf.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/09-chat2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/100-coffee.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/18-envelope.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/19-gear.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/21-skull.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/30-key.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/34-coffee.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/88-beermug.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/glyphish-icons/Read me first - license.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/jquery-logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/landrover-thumb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/landrover.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/lumia_800.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/newyork.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/nexus_7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/paris.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/phone_galaxy3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/phone_iphone5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/phone_lumia920.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/phone_onex.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/photo-landscape.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/photo-portrait.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/photo-run.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/seoul.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/sydney.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/tesla-thumb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/tesla.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/tizen.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_assets/img/us.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_assets/css/components.css" afterPath="$PROJECT_DIR$/assets/css/components.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/css/dokita.css" afterPath="$PROJECT_DIR$/assets/css/dokita.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/css/draggable-widget.css" afterPath="$PROJECT_DIR$/assets/css/draggable-widget.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/css/jqm-demos.css" afterPath="$PROJECT_DIR$/assets/css/jqm-demos.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.min.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.min.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.min.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.min.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_animated.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_animated.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_bordered-pulled.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_bordered-pulled.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_core.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_core.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_fixed-width.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_fixed-width.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_icons.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_icons.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_larger.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_larger.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_list.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_list.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_mixins.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_mixins.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_rotated-flipped.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_rotated-flipped.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_screen-reader.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_screen-reader.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_stacked.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_stacked.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_variables.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_variables.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-brands.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-brands.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-regular.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-regular.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-solid.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-solid.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fontawesome.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fontawesome.less" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_animated.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_animated.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_bordered-pulled.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_core.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_core.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_fixed-width.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_icons.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_icons.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_larger.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_larger.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_list.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_list.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_mixins.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_mixins.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_rotated-flipped.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_screen-reader.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_stacked.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_stacked.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_variables.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-brands.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-brands.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-regular.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-regular.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-solid.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-solid.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fontawesome.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fontawesome.scss" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.eot" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.svg" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.ttf" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff2" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.eot" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.svg" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.ttf" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff2" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.eot" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.svg" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.ttf" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff" />
+      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff2" />
+      <change beforePath="$PROJECT_DIR$/_assets/js/h2widget.js" afterPath="$PROJECT_DIR$/assets/js/h2widget.js" />
+      <change beforePath="$PROJECT_DIR$/_assets/js/index.html" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/_assets/js/index.js" afterPath="$PROJECT_DIR$/assets/js/index.js" />
+      <change beforePath="$PROJECT_DIR$/_assets/js/jqm-demos.js" afterPath="$PROJECT_DIR$/assets/js/jqm-demos.js" />
+      <change beforePath="$PROJECT_DIR$/_assets/js/view-source.js" afterPath="$PROJECT_DIR$/assets/js/view-source.js" />
+      <change beforePath="$PROJECT_DIR$/dialog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,11 +83,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5200">
-              <caret line="325" column="53" lean-forward="false" selection-start-line="325" selection-start-column="53" selection-end-line="325" selection-end-column="53" />
+            <state relative-caret-position="115">
+              <caret line="284" column="77" lean-forward="false" selection-start-line="284" selection-start-column="77" selection-end-line="284" selection-end-column="77" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -83,8 +95,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="dokita.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_assets/css/dokita.css">
+        <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4544">
               <caret line="284" column="21" lean-forward="false" selection-start-line="284" selection-start-column="21" selection-end-line="284" selection-end-column="21" />
@@ -103,18 +125,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dialog.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dialog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="components.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_assets/css/components.css">
+        <entry file="file://$PROJECT_DIR$/assets/css/components.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="9136">
               <caret line="571" column="33" lean-forward="false" selection-start-line="571" selection-start-column="33" selection-end-line="571" selection-end-column="33" />
@@ -148,9 +160,12 @@
       <find>.text</find>
       <find>modal-de</find>
       <find>modal</find>
+      <find>_assets</find>
+      <find>assets/js</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>assets</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/plugin/slick</dir>
@@ -162,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/assets/js/jquery-1.8.2.min.js" />
         <option value="$PROJECT_DIR$/assets/js/jquery.mobile-1.2.0.min.js" />
         <option value="$PROJECT_DIR$/plugin/slick/slick-theme.css" />
@@ -185,6 +199,7 @@
         <option value="$PROJECT_DIR$/_assets/css/dokita.css" />
         <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -227,17 +242,6 @@
             <path>
               <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -252,6 +256,9 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -300,17 +307,18 @@
       <workItem from="1533780566718" duration="944000" />
       <workItem from="1533808239173" duration="1301000" />
       <workItem from="1533809888239" duration="5557000" />
-      <workItem from="1533865800878" duration="465000" />
+      <workItem from="1533865800878" duration="2874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98996000" />
+    <option name="totallyTimeSpent" value="101405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="88" y="23" width="1815" height="1064" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13705584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13705584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -341,9 +349,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/custom.js" />
-    <entry file="file://$PROJECT_DIR$/assets/css/draggable-widget.css" />
-    <entry file="file://$PROJECT_DIR$/assets/css/components.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1584">
@@ -411,7 +416,6 @@
     <entry file="file://$PROJECT_DIR$/plugin/slick/slick.css" />
     <entry file="file://$PROJECT_DIR$/plugin/slick/slick-theme.css" />
     <entry file="file://$PROJECT_DIR$/assets/css/jquery.mobile-1.2.0.min.css" />
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/component.html" />
     <entry file="file://$PROJECT_DIR$/assets/js/jquery.ui.touch-punch.min.js" />
     <entry file="file://$PROJECT_DIR$/assets/js/jquery-1.7.2.min.js" />
@@ -440,7 +444,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/css/components.css">
+    <entry file="file://$PROJECT_DIR$/assets/css/components.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9136">
           <caret line="571" column="33" lean-forward="false" selection-start-line="571" selection-start-column="33" selection-end-line="571" selection-end-column="33" />
@@ -448,7 +452,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_assets/css/dokita.css">
+    <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4544">
           <caret line="284" column="21" lean-forward="false" selection-start-line="284" selection-start-column="21" selection-end-line="284" selection-end-column="21" />
@@ -464,13 +468,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7722">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1414737226000" expanded="true" signature="25722:25730" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/view-source.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4627">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1414737226000" expanded="true" signature="10324:10332" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5200">
-          <caret line="325" column="53" lean-forward="false" selection-start-line="325" selection-start-column="53" selection-end-line="325" selection-end-column="53" />
+        <state relative-caret-position="115">
+          <caret line="284" column="77" lean-forward="false" selection-start-line="284" selection-start-column="77" selection-end-line="284" selection-end-column="77" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
