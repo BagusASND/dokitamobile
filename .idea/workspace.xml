@@ -2,77 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e5427a-2599-43c9-bec8-fd6c860780cf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/js/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_assets/css/components.css" afterPath="$PROJECT_DIR$/assets/css/components.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/css/dokita.css" afterPath="$PROJECT_DIR$/assets/css/dokita.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/css/draggable-widget.css" afterPath="$PROJECT_DIR$/assets/css/draggable-widget.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/css/jqm-demos.css" afterPath="$PROJECT_DIR$/assets/css/jqm-demos.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-brands.min.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-regular.min.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fa-solid.min.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.min.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.min.css" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome.min.css" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_animated.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_animated.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_bordered-pulled.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_bordered-pulled.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_core.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_core.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_fixed-width.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_fixed-width.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_icons.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_icons.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_larger.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_larger.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_list.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_list.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_mixins.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_mixins.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_rotated-flipped.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_rotated-flipped.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_screen-reader.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_screen-reader.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_stacked.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_stacked.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_variables.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/_variables.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-brands.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-brands.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-regular.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-regular.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-solid.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fa-solid.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fontawesome.less" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/less/fontawesome.less" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_animated.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_animated.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_bordered-pulled.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_core.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_core.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_fixed-width.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_icons.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_icons.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_larger.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_larger.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_list.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_list.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_mixins.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_mixins.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_rotated-flipped.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_screen-reader.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_stacked.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_stacked.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_variables.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/_variables.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-brands.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-brands.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-regular.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-regular.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-solid.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fa-solid.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fontawesome.scss" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/scss/fontawesome.scss" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.eot" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.eot" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.svg" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.ttf" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-brands-400.woff2" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.eot" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.eot" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.svg" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.ttf" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-regular-400.woff2" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.eot" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.eot" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.svg" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.svg" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.ttf" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.ttf" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff" />
-      <change beforePath="$PROJECT_DIR$/_assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff2" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-5.0.13/web-fonts-with-css/webfonts/fa-solid-900.woff2" />
-      <change beforePath="$PROJECT_DIR$/_assets/js/h2widget.js" afterPath="$PROJECT_DIR$/assets/js/h2widget.js" />
-      <change beforePath="$PROJECT_DIR$/_assets/js/index.html" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/_assets/js/index.js" afterPath="$PROJECT_DIR$/assets/js/index.js" />
-      <change beforePath="$PROJECT_DIR$/_assets/js/jqm-demos.js" afterPath="$PROJECT_DIR$/assets/js/jqm-demos.js" />
-      <change beforePath="$PROJECT_DIR$/_assets/js/view-source.js" afterPath="$PROJECT_DIR$/assets/js/view-source.js" />
-      <change beforePath="$PROJECT_DIR$/dialog.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="284" column="77" lean-forward="false" selection-start-line="284" selection-start-column="77" selection-end-line="284" selection-end-column="77" />
+            <state relative-caret-position="275">
+              <caret line="294" column="32" lean-forward="true" selection-start-line="294" selection-start-column="32" selection-end-line="294" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -229,11 +159,6 @@
               <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="dokitamobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dokitamobile" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -297,12 +222,12 @@
       <workItem from="1533780566718" duration="944000" />
       <workItem from="1533808239173" duration="1301000" />
       <workItem from="1533809888239" duration="5557000" />
-      <workItem from="1533865800878" duration="2923000" />
+      <workItem from="1533865800878" duration="3303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101454000" />
+    <option name="totallyTimeSpent" value="101834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="88" y="23" width="1815" height="1064" extended-state="0" />
@@ -495,8 +420,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="284" column="77" lean-forward="false" selection-start-line="284" selection-start-column="77" selection-end-line="284" selection-end-column="77" />
+        <state relative-caret-position="275">
+          <caret line="294" column="32" lean-forward="true" selection-start-line="294" selection-start-column="32" selection-end-line="294" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
