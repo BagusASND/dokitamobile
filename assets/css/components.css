@@ -481,6 +481,11 @@ h1,h2,h3,h4,h5,h6{
     font-size: 22px;
     position: absolute;
 }
+.toolbar-title{
+    color: #ffffff;
+    position: absolute;
+    left: 44px;
+}
 
 .hide-temp{
     display: none!important;
