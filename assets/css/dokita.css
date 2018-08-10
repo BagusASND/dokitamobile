@@ -293,6 +293,24 @@
     margin-bottom: 10px;
 }
 
+.history-page .status{
+    font-weight: bold;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+.history-page .status.cancel{
+    color: #E43425;
+}
+.history-page .status.success{
+    color: #56bd0a;
+}
+.history-page .btn-status{
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+
 @media (max-width: 320px) {
     .multiple-items-slide .slick-list .item{
         width: 230px!important;
