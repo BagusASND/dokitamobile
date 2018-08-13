@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e5427a-2599-43c9-bec8-fd6c860780cf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pages/daftar-berobat/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/components.css" afterPath="$PROJECT_DIR$/assets/css/components.css" />
       <change beforePath="$PROJECT_DIR$/assets/css/dokita.css" afterPath="$PROJECT_DIR$/assets/css/dokita.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change beforePath="$PROJECT_DIR$/pages/akun/index.html" afterPath="$PROJECT_DIR$/pages/akun/index.html" />
+      <change beforePath="$PROJECT_DIR$/pages/daftar-berobat/index.html" afterPath="$PROJECT_DIR$/pages/daftar-berobat/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,21 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dokita.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dokita.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="340" column="16" lean-forward="false" selection-start-line="340" selection-start-column="16" selection-end-line="340" selection-end-column="16" />
+            <state relative-caret-position="494">
+              <caret line="351" column="24" lean-forward="false" selection-start-line="351" selection-start-column="24" selection-end-line="351" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/daftar-berobat/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="74" column="37" lean-forward="false" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+            <state relative-caret-position="558">
+              <caret line="76" column="61" lean-forward="false" selection-start-line="76" selection-start-column="61" selection-end-line="76" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -53,7 +49,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>font-fami</find>
       <find>fontfac</find>
       <find>fontaw</find>
       <find>font-fa</find>
@@ -83,6 +78,7 @@
       <find>.text</find>
       <find>form</find>
       <find>.togg</find>
+      <find>.poli</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -123,8 +119,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/components.css" />
         <option value="$PROJECT_DIR$/pages/akun/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/dokita.css" />
         <option value="$PROJECT_DIR$/pages/daftar-berobat/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/dokita.css" />
       </list>
     </option>
   </component>
@@ -277,12 +273,12 @@
       <workItem from="1533809888239" duration="5557000" />
       <workItem from="1533865800878" duration="3425000" />
       <workItem from="1533890563981" duration="7511000" />
-      <workItem from="1534138551248" duration="11368000" />
+      <workItem from="1534138551248" duration="11776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120835000" />
+    <option name="totallyTimeSpent" value="121243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="88" y="23" width="1815" height="1064" extended-state="0" />
@@ -467,18 +463,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
+    <entry file="file://$PROJECT_DIR$/pages/daftar-berobat/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="340" column="16" lean-forward="false" selection-start-line="340" selection-start-column="16" selection-end-line="340" selection-end-column="16" />
+        <state relative-caret-position="558">
+          <caret line="76" column="61" lean-forward="false" selection-start-line="76" selection-start-column="61" selection-end-line="76" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/daftar-berobat/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/dokita.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="74" column="37" lean-forward="false" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+        <state relative-caret-position="494">
+          <caret line="351" column="24" lean-forward="false" selection-start-line="351" selection-start-column="24" selection-end-line="351" selection-end-column="24" />
           <folding />
         </state>
       </provider>

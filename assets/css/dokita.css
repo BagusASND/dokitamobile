@@ -345,6 +345,12 @@
     padding-top: 15px;
     padding-bottom: 15px;
 }
+.checkup-list-page .poli img{
+    width: 60px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
 .checkup-list-page .poli.left{
     padding-left: 15px;
     padding-right: 7px;
