@@ -67,7 +67,7 @@
 			<div class="ui-grid-c">
 				<div class="ui-block-a ui-block">
 					<div class="card color-menu-a">
-						<a href="daftar-berobat.html">
+						<a href="pages/daftar-berobat/index.html" data-transition="slide">
 							<div class="menu-ic">
 								<img src="assets/img/daftar.png" class="img-responsive">
 							</div>
@@ -326,6 +326,44 @@
 
 <!--Plugin JS-->
 <script src="js/slick/slick.min.js"></script>
+
+<script>
+    $(document).ready(function(){
+        $('.main-slider-content').slick({
+            autoplay: true,
+            autoplaySpeed: 2000
+        });
+
+
+        document.addEventListener("deviceready", onDeviceReady, false);
+
+        function onDeviceReady(){
+
+            document.addEventListener("backbutton", function(e){
+                e.preventDefault();
+                navigator.notification.confirm("Keluar dari aplikasi?", onConfirmExit, "Confirmation", "Keluar,Batal");
+
+
+                /*if($.mobile.activePage.is('#homepage')){
+                    e.preventDefault();
+                    navigator.app.exitApp();
+                }
+                else {
+                    navigator.app.backHistory();
+                }*/
+
+            }, false);
+        }
+
+        function onConfirmExit(button) {
+            if(button==2){ //If User select a No, then return back;
+                return;
+            }else{
+                navigator.app.exitApp(); // If user select a Yes, quit from the app.
+            }
+        }
+	});
+</script>
 
 </body>
 </html>

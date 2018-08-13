@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Promo</title>
+    <title>Akun Saya</title>
 
     <link rel="stylesheet" href="../../css/themes/default/jquery.mobile-1.4.5.min.css">
     <link rel="stylesheet" href="../../assets/css/jqm-demos.css">
@@ -24,7 +24,7 @@
 
 
 <div data-role="page" class="jqm-demos">
-    <div data-role="header" class="main-header" data-position="fixed">
+    <div data-role="header" class="main-header no-shadow" data-position="fixed">
         <div class="ui-grid-a no-margin">
             <div class="ui-block-a container-logo">
                 <img src="../../assets/img/profil%203.png" class="img-responsive logo-img">
@@ -33,37 +33,79 @@
         </div>
     </div><!-- /header -->
 
-    <div role="main" class="ui-content promo-page">
+    <div role="main" class="ui-content account-page no-padding">
 
-        <div class="card">
-            <img src="../../images/promo-kartu-kredit-bca-eka-hospital.jpg" class="img-responsive">
-            <div class="caption p-10">
-                Puskesmas Se-Lampung Barat Nyatakan Siaga Pemudik
-                <p class="no-margin text-muted"><i class="far fa-clock"></i> 30/12/2018</p>
-            </div>
+        <div class="profile-cover"></div>
+        <div class="profile-info text-center">
+            <img src="../../images/doctor2.jpg">
+            <p class="mb-5 text-strong">John Doe</p>
+            <span>john.doe@gmail.com</span>
         </div>
-        <div class="card">
-            <img src="../../images/promo-kartu-kredit-bca-eka-hospital.jpg" class="img-responsive">
-            <div class="caption p-10">
-                Puskesmas Se-Lampung Barat Nyatakan Siaga Pemudik
-                <p class="no-margin text-muted"><i class="far fa-clock"></i> 30/12/2018</p>
+        <div class="card-list-group mt-10">
+            <a href="" class="text-normal normal-link btn-edit">
+                Ubah <i class="fas fa-pencil-alt"></i>
+            </a>
+            <div class="detail-account-list">
+                <i class="far fa-user"></i>
+                <p class="text-muted text-xs no-margin">Nama</p>
+                <span>John Doe</span>
             </div>
-        </div>
-        <div class="card">
-            <img src="../../images/promo-kartu-kredit-bca-eka-hospital.jpg" class="img-responsive">
-            <div class="caption p-10">
-                Puskesmas Se-Lampung Barat Nyatakan Siaga Pemudik
-                <p class="no-margin text-muted"><i class="far fa-clock"></i> 30/12/2018</p>
+            <div class="detail-account-list">
+                <i class="fas fa-credit-card"></i>
+                <p class="text-muted text-xs no-margin">Nomor Rekam Medis</p>
+                <span>John 441114188003</span>
             </div>
-        </div>
-        <div class="card">
-            <img src="../../images/promo-kartu-kredit-bca-eka-hospital.jpg" class="img-responsive">
-            <div class="caption p-10">
-                Puskesmas Se-Lampung Barat Nyatakan Siaga Pemudik
-                <p class="no-margin text-muted"><i class="far fa-clock"></i> 30/12/2018</p>
+            <div class="detail-account-list">
+                <i class="fas fa-phone"></i>
+                <p class="text-muted text-xs no-margin">Nomor Telepon</p>
+                <span>08171777177</span>
+            </div>
+            <div class="detail-account-list">
+                <i class="far fa-envelope"></i>
+                <p class="text-muted text-xs no-margin">Email</p>
+                <span>john.doe@gmail.com</span>
+            </div>
+            <div class="detail-account-list">
+                <i class="fas fa-gift"></i>
+                <p class="text-muted text-xs no-margin">Tanggal Lahir</p>
+                <span>30/01/1990</span>
+            </div>
+            <div class="detail-account-list">
+                <i class="fas fa-tint"></i>
+                <p class="text-muted text-xs no-margin">Golongan Darah</p>
+                <span>AB</span>
+            </div>
+            <div class="detail-account-list">
+                <i class="fas fa-stethoscope"></i>
+                <p class="text-muted text-xs no-margin">Nomor BPJS</p>
+                <span>320134300119900001</span>
             </div>
         </div>
 
+        <div class="card-list-group mt-10">
+            <a href="" class="text-normal" data-transition="slide">
+                Buku Data Diri Pasien
+                <span class="toggle-arrow">
+                <i class="fas fa-chevron-right"></i>
+            </span>
+            </a>
+        </div>
+
+        <div class="card-list-group mt-10 mb-10 no-padding">
+            <div class="card-list">
+                <a href="" class="text-normal" data-transition="slide">
+                    Ubah Password
+                    <span class="toggle-arrow">
+                    <i class="fas fa-chevron-right"></i>
+                </span>
+                </a>
+            </div>
+            <div class="card-list">
+                <a href="" class="text-normal normal-link">
+                    Keluar
+                </a>
+            </div>
+        </div>
 
     </div><!-- /content -->
 

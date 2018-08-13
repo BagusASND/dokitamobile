@@ -311,6 +311,50 @@
     right: 15px;
 }
 
+.account-page .profile-cover{
+    background-color: #56bd0a;
+    width: 100%;
+    height: 70px;
+}
+.account-page .profile-info{
+    background-color: #ffffff;
+    padding: 15px;
+}
+.account-page .profile-info img{
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -65px;
+}
+.account-page .detail-account-list{
+    margin: 15px 0;
+    padding: 0 15px 0 35px;
+}
+.account-page .detail-account-list i{
+    font-size: 22px;
+    position: absolute;
+    left: 15px;
+    color: #b3b3b3;
+}
+.account-page .btn-edit{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+.checkup-list-page .poli{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.checkup-list-page .poli.left{
+    padding-left: 15px;
+    padding-right: 7px;
+}
+.checkup-list-page .poli.right{
+    padding-right: 15px;
+    padding-left: 7px;
+}
+
+
 @media (max-width: 320px) {
     .multiple-items-slide .slick-list .item{
         width: 230px!important;
