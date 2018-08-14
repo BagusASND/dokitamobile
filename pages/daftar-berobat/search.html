@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Daftar Berobat</title>
+
+    <link rel="stylesheet" href="../../css/themes/default/jquery.mobile-1.4.5.min.css">
+    <link rel="stylesheet" href="../../assets/css/jqm-demos.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+
+    <link rel="stylesheet" href="../../assets/css/components.css" />
+    <link rel="stylesheet" href="../../assets/css/dokita.css" />
+    <link rel="stylesheet" href="../../assets/css/draggable-widget.css" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="../../assets/fonts/fontawesome-5.0.13/web-fonts-with-css/css/fontawesome-all.min.css" />
+
+    <!--Plugin-->
+    <link rel="stylesheet" href="../../js/slick/slick.css" />
+    <link rel="stylesheet" href="../../js/slick/slick-theme.css" />
+</head>
+<body>
+
+
+<div data-role="page" class="jqm-demos">
+    <div data-role="header" class="main-header no-shadow" data-position="fixed">
+        <div class="container-logo" style="width: fit-content;width: -moz-fit-content;">
+            <a data-rel="back" class="arrow-back">
+                <i class="fas fa-arrow-left"></i>
+            </a>
+        </div>
+        <div class="input-header">
+            <form class="ui-filterable">
+                <input id="rich-autocomplete-input" data-type="search" placeholder="Cari Dokter atau Poli">
+            </form>
+        </div>
+    </div><!-- /header -->
+
+    <div role="main" class="ui-content checkup-list-page no-padding">
+
+        <div class="list-result p-15">
+            <ul data-role="listview" data-filter="true" data-inset="true" data-input="#rich-autocomplete-input" class="no-margin">
+                <li data-filtertext="NASDAQ:RYNL dr. reynold sp. pd">
+                    <a href="profil-dokter.html" data-transition="slide"><i class="fas fa-user-md mr-15"></i> <span>Dr. Reynold Sp. PD</span></a>
+                </li>
+                <li data-filtertext="NASDAQ:DINA dr. dina">
+                    <a href="profil-dokter.html" data-transition="slide"><i class="fas fa-user-md mr-15"></i> <span>Dr. Dina</span></a>
+                </li>
+                <li data-filtertext="NASDAQ:WRWB dr. woro wibowo sp. og">
+                    <a href="profil-dokter.html" data-transition="slide"><i class="fas fa-user-md mr-15"></i> <span>Dr. Woro Wibowo Sp. OG</span></a>
+                </li>
+                <li data-filtertext="NASDAQ:KML dr. kamela intan sp. m">
+                    <a href="profil-dokter.html" data-transition="slide"><i class="fas fa-user-md mr-15"></i> <span>Dr. Kamela Intan Sp. M</span></a>
+                </li>
+                <li data-filtertext="NYSE:IDR dr. indri">
+                    <a href="profil-dokter.html" data-transition="slide"><i class="fas fa-user-md mr-15"></i> <span>Dr. Indri</span></a>
+                </li>
+                <li data-filtertext="NASDAQ:BARI dr. bagus arisandi">
+                    <a href="profil-dokter.html" data-transition="slide"><i class="fas fa-user-md mr-15"></i> <span>Dr. Bagus Arisandi</span></a>
+                </li>
+                <li data-filtertext="NASDAQ:ARDNSYH dr. ardiansyah">
+                    <a href="profil-dokter.html" data-transition="slide"><i class="fas fa-user-md mr-15"></i> <span>Dr. Ardiansyah</span></a>
+                </li>
+                <li data-filtertext="NASDAQ:MIRA dr. mira">
+                    <a href="profil-dokter.html" data-transition="slide"><i class="fas fa-user-md mr-15"></i> <span>Dr. Mira</span></a>
+                </li>
+            </ul>
+        </div>
+
+    </div><!-- /content -->
+
+
+</div><!-- /page -->
+
+
+
+
+<div data-role="dialog" id="searchPage" class="jqm-demos page-dialog">
+    <div data-role="header" class="main-header no-shadow" data-position="fixed">
+        <div class="container-logo">
+            <a data-rel="back" class="arrow-back">
+                <i class="fas fa-arrow-left ml-15"></i>
+            </a>
+        </div>
+        <div class="input-header">
+            <form class="ui-filterable">
+                <input id="rich-autocomplete-input" data-type="search" placeholder="Cari Dokter/Poli">
+            </form>
+        </div>
+    </div><!-- /header -->
+
+    <div role="main" class="ui-content search-page no-padding">
+
+        <ul data-role="listview" data-filter="true" data-inset="true" data-input="#rich-autocomplete-input">
+                <li data-filtertext="NASDAQ:ADBE Adobe Systems Incorporated"><a href="#">Adobe</a></li>
+                <li data-filtertext="NASDAQ:AMZNL Amazon.com, Inc."><a href="#">Amazon</a></li>
+                <li data-filtertext="NASDAQ:AAPL Apple Inc."><a href="#">Apple</a></li>
+                <li data-filtertext="NASDAQ:GOOG Google Inc."><a href="#">Google</a></li>
+                <li data-filtertext="NYSE:IBM Intl. International Business Machines Corp."><a href="#">IBM</a></li>
+                <li data-filtertext="NASDAQ:MSFT Microsoft Corporation"><a href="#">Microsoft</a></li>
+                <li data-filtertext="NASDAQ:YHOO Yahoo! Inc."><a href="#">Yahoo</a></li>
+                <li data-filtertext="USA U.S.A. United States of America"><a href="#">United States</a></li>
+        </ul>
+
+    </div><!-- /content -->
+
+
+</div><!-- /page -->
+
+
+
+
+<script src="../../js/jquery.js"></script>
+<script src="../../assets/js/index.js"></script>
+<script src="../../js/jquery.mobile-1.4.5.min.js"></script>
+<script src="../../js/custom.js"></script>
+
+<!--Plugin JS-->
+<script src="../../js/slick/slick.min.js"></script>
+
+</body>
+</html>

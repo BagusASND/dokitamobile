@@ -26,7 +26,7 @@
     left: 0;
     bottom: 0;
     padding: 10px;
-    background-color: rgba(0,0,0,.2);
+    background: linear-gradient(rgba(255,255,255,.1), rgba(66,66,66.5), rgba(0,0,0,.6));
     color: #ffffff;
     font-size: 12px;
     line-height: 17px;
@@ -358,6 +358,12 @@
 .checkup-list-page .poli.right{
     padding-right: 15px;
     padding-left: 7px;
+}
+
+.account-page .register-btn{
+    position: absolute;
+    right: 15px;
+    top: 4px;
 }
 
 
