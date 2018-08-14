@@ -366,6 +366,28 @@
     top: 4px;
 }
 
+.live-status{
+    width: fit-content;
+    margin: auto;
+    position: relative;
+}
+.live-status span{
+    font-size: 10px;
+    position: absolute;
+    top: -10px;
+    right: -43px;
+}
+.live-status span:before{
+    content: '';
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #56bd0a;
+    position: absolute;
+    left: -13px;
+    top: 1px;
+}
+
 
 @media (max-width: 320px) {
     .multiple-items-slide .slick-list .item{

@@ -622,6 +622,13 @@ h1,h2,h3,h4,h5,h6{
 .card-body{
     padding: 15px;
 }
+.card-body .left{
+    width: 90px;
+}
+.card-body .right{
+    padding-left: 15px;
+    border-left: solid 1px #dddddd;
+}
 
 .panel{
     background-color: #FFFFFF;
@@ -831,6 +838,10 @@ h1,h2,h3,h4,h5,h6{
     width: auto!important;
     box-shadow: none;
     border: none;
+}
+
+.btn.disabled{
+    background-color: #dddddd!important;
 }
 
 .toggle-arrow{
