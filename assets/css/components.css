@@ -1,7 +1,7 @@
 body{
     background-color: #EFEEF3;
     text-shadow: none;
-    font-size: 12px;
+    font-size: 13px;
 }
 a{
     text-decoration: none!important;
@@ -23,10 +23,12 @@ h1,h2,h3,h4,h5,h6{
 /*Form*/
 .form-group{
     position: relative;
+    margin-bottom: 15px;
 }
 .form-group .ui-shadow-inset{
     box-shadow: none!important;
     border: none;
+    background-color: transparent;
 }
 .form-group .form-control{
     padding: 8px 27px 8px 12px!important;
@@ -37,6 +39,12 @@ h1,h2,h3,h4,h5,h6{
     background: transparent!important;
     border: solid 1px #dddddd!important;
     padding: 8px 12px!important;
+}
+.form-control.flat{
+    border-left: none!important;
+    border-right: none!important;
+    border-top: none!important;
+    border-radius: 0!important;
 }
 .form-control::placeholder{
     font-style: italic;
@@ -826,6 +834,10 @@ h1,h2,h3,h4,h5,h6{
 }
 
 
+a.btn{
+    padding: 10px 12px;
+    border-radius: 4px;
+}
 .btn .ui-btn-inner{
     border: none;
 }
@@ -840,10 +852,18 @@ h1,h2,h3,h4,h5,h6{
     text-shadow: none!important;
     color: #ffffff!important;
     font-weight: 100;
-    font-size: 10px;
+    font-size: 14px;
     width: auto!important;
     box-shadow: none;
     border: none;
+}
+.btn-primary-outline{
+    border: solid 2px;
+    border-color: #54bd0a!important;
+    background-color: transparent!important;
+    color: #54bd0a!important;
+    box-shadow: none;
+    font-size: 14px;
 }
 
 .btn.disabled{

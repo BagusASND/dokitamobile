@@ -364,6 +364,7 @@
     position: absolute;
     right: 15px;
     top: 4px;
+    font-size: 10px;
 }
 
 .live-status{

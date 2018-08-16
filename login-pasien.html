@@ -39,10 +39,23 @@
 
         <p>Untuk booking jadwal yang Anda pilih, silahkan isi nomor rekam medis dan tanggal lahir di kolom di bawah ini</p>
 
-        <a>
-            <button class="btn btn-block btn-primary text-lg">MASUK</button>
-        </a>
-        <p class="mt-30 mb-5"></p>
+
+        <div class="mt-20 mb-15">
+            <div class="form-group">
+                <input type="text" name="name" class="form-control flat" placeholder="Nomor Rekam Medis"  />
+            </div>
+            <div class="form-group">
+                <input type="text" name="name" class="form-control flat" placeholder="Masukkan Tanggal Lahir"  />
+            </div>
+        </div>
+        <button class="btn btn-block btn-primary text-lg">
+            <a href="#">MASUK</a>
+        </button>
+
+        <p class="text-center mt-30 mb-5">Pasien Baru & Belum Pernah Mendaftar? Klik "Daftar"</p>
+        <button class="btn btn-block btn-primary-outline text-lg">
+            <a href="#">DAFTAR</a>
+        </button>
 
     </div><!-- /content -->
 
@@ -59,6 +72,7 @@
 
 <!--Plugin JS-->
 <script src="js/slick/slick.min.js"></script>
+<script src="js/floatingLabel.js"></script>
 
 </body>
 </html>
